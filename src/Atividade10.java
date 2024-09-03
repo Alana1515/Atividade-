@@ -27,6 +27,5 @@ public class Atividade10 {
                 " O persentual de desconto é " + percentualdesconto + "%"  +
                 " o valor do desconto é: " + desconto + " Valor final é: " + valorDescontado);
 
-        jh
     }
 }
